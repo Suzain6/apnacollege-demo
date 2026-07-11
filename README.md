@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository.
 <br>
-Author-Altamash Hussain(Student)
+Author-Altamash Hussain(student)
